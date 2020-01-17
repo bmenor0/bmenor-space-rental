@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bmenor-space-rental/precache-manifest.973f3ed9ecaf5cd1ca411f4e74219301.js"
+  "/bmenor-space-rental/precache-manifest.b6e2d7d87fbbe28466d704764de063b8.js"
 );
 
 self.addEventListener('message', (event) => {

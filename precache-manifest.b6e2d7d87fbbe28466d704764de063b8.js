@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c0dae26c664f55e1ad5b7bfa2c1b88c",
+    "revision": "49c71243c446e35ca3046b0044c87231",
     "url": "/bmenor-space-rental/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bmenor-space-rental/static/js/2.19f00b2e.chunk.js"
   },
   {
-    "revision": "30b7d3198478d2f86e19",
-    "url": "/bmenor-space-rental/static/js/main.d78f3409.chunk.js"
+    "revision": "3381ec0d80751687cbb4",
+    "url": "/bmenor-space-rental/static/js/main.03953575.chunk.js"
   },
   {
     "revision": "0a6719c324f5db7c2ef2",
