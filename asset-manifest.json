@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/bmenor-space-rental/static/js/main.d78f3409.chunk.js",
+    "main.js.map": "/bmenor-space-rental/static/js/main.d78f3409.chunk.js.map",
+    "runtime~main.js": "/bmenor-space-rental/static/js/runtime~main.d884b721.js",
+    "runtime~main.js.map": "/bmenor-space-rental/static/js/runtime~main.d884b721.js.map",
+    "static/js/2.19f00b2e.chunk.js": "/bmenor-space-rental/static/js/2.19f00b2e.chunk.js",
+    "static/js/2.19f00b2e.chunk.js.map": "/bmenor-space-rental/static/js/2.19f00b2e.chunk.js.map",
+    "index.html": "/bmenor-space-rental/index.html",
+    "precache-manifest.973f3ed9ecaf5cd1ca411f4e74219301.js": "/bmenor-space-rental/precache-manifest.973f3ed9ecaf5cd1ca411f4e74219301.js",
+    "service-worker.js": "/bmenor-space-rental/service-worker.js",
+    "static/media/cart.07d5ba4a.svg": "/bmenor-space-rental/static/media/cart.07d5ba4a.svg",
+    "static/media/curve.a8a3ba3a.svg": "/bmenor-space-rental/static/media/curve.a8a3ba3a.svg",
+    "static/media/dog-1.png": "/bmenor-space-rental/static/media/dog-1.f25b4cba.png",
+    "static/media/dog-2.png": "/bmenor-space-rental/static/media/dog-2.ab7a533b.png",
+    "static/media/dog-3.png": "/bmenor-space-rental/static/media/dog-3.b6280374.png",
+    "static/media/exit.98f2a8b1.svg": "/bmenor-space-rental/static/media/exit.98f2a8b1.svg",
+    "static/media/galaxy.jpg": "/bmenor-space-rental/static/media/galaxy.0b1c6775.jpg",
+    "static/media/home.3192f86c.svg": "/bmenor-space-rental/static/media/home.3192f86c.svg",
+    "static/media/iss.jpg": "/bmenor-space-rental/static/media/iss.48932214.jpg",
+    "static/media/logo.0c7bf061.svg": "/bmenor-space-rental/static/media/logo.0c7bf061.svg",
+    "static/media/moon.jpg": "/bmenor-space-rental/static/media/moon.493bbb75.jpg",
+    "static/media/profile.ea589b57.svg": "/bmenor-space-rental/static/media/profile.ea589b57.svg",
+    "static/media/rocket.c27cc1f5.svg": "/bmenor-space-rental/static/media/rocket.c27cc1f5.svg",
+    "static/media/space.jpg": "/bmenor-space-rental/static/media/space.7dfc7923.jpg"
+  }
+}
